@@ -1,3 +1,7 @@
+.. image:: https://circleci.com/gh/dwave-examples/nurse-scheduling.svg?style=svg
+    :target: https://circleci.com/gh/dwave-examples/nurse-scheduling
+    :alt: Linux/Mac/Windows build status
+
 ================
 Nurse Scheduling
 ================
